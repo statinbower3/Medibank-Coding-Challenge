@@ -1,4 +1,4 @@
-# Medibank-Coding-Challenge
+# Medibank-Coding-Challenge - Solution
 Sort through a list of files in a folder structure
 
 #!/bin/bash
