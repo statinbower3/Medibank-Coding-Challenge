@@ -9,7 +9,7 @@ Sort through a list of files in a folder structure
 echo "Enter directory path:"
 read dir_path
 
-#For loop scans through every text file in the directory and gives out the o/p in decending order
+#For loop scans through every text file in the directory and gives out the o/p in decending order with words with atleast two occurrences
 
 
 for file in $(find $dir_path -type f -name "*.txt")
